@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Roberto</h1>
 <h3 align="center">A python developer from MTY</h3>
 
-- 🔭 I’m currently working on **Epicor**
+- 🔭 I’m currently working at **Epicor**
 
 - 🌱 I’m currently learning **Angular**
 
