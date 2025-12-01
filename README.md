@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Angular**
 
-- 💬 Ask me about **python (FastAPI, Django), Perl, Js**
+- 💬 Ask me about **Python (FastAPI, Django), Perl, Js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
